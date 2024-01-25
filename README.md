@@ -1,0 +1,2 @@
+# proyectoNetCore
+Aprendiendo Net Core
